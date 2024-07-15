@@ -1,0 +1,5 @@
+Source : C:\Users\venkatesh.ch\Downloads\mite\Project_Face_Identify_Recognize\images\tamil_imgs\298729267_3182174545368595_307730986583309107_n.jpeg
+Text : "மதுவிற்பனையை ஆதார்மூலமாகவிற்பனை செய்ய வேண்டும்மது வாங்குபவர்களுக்கு அரசு தரும்உணவுக்கான மானியங்கள்நிறுத்தப்படவேண்டும் மது வாங்க வசதி0ள்ளவர்களால் கண்டிப்பாக உணவும்வாங்க முடியும் நாம் அவர்களுக்குஇலவசமாக உணவைக்கொடுத்தால் அவர்கள் பணத்தைக்கொடுத்து மது வாங்குகிறார்கள்-ரத்தன் டாடாகார்ட்
+Translated_text : Government food subsidies to buyers must be stopped Those who have access to alcohol can certainly buy food if we feed them for free, they pay money and buy liquor.
+Sentiment_Analysis : [{'label': 'NEGATIVE', 'score': 0.5404820442199707}]
+

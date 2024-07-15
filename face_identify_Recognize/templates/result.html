@@ -1,0 +1,36 @@
+{% include "header.html" %}
+
+{% block body %}
+    <div class="container">
+        <br>
+        <br>
+        <h1>Results</h1>
+        <hr>
+
+        <h2>Information</h2>
+        <p>Words: {{ words }}</p>
+        <p>Scan time: {{ time }} seconds</p>
+        <hr>
+
+        <h2>Extracted text</h2>
+        <p>{{ text }}</p>
+    </div>
+
+    <center>
+
+        <h1 class='display-2'>Download Rar File</h1>
+
+        <br>
+        <br>
+    <!-- <a href="{{url_for('download')}}">Download RAR File</a> -->
+
+
+    <form action = "{{url_for('download')}}" method = "POST">
+        <p><input type = "submit" value = "Download Rar File" /></p>
+    </form>
+    <br>
+
+    </center>
+{% endblock body %}
+
+{% include "footer.html" %}
